@@ -1,0 +1,38 @@
+body{
+  background:rgb(245,245,245);
+}
+.thumbnail img{
+  max-height: 250px;;
+  width: 75%;
+}
+.thumbnail .description{
+  color: gray;
+}
+.collapse .nav li a:hover, .dropdown:hover .dropbtn {
+  background-color: rgb(21, 165, 21);
+}
+.navbar-brand
+{
+    margin: 0;
+    padding: 0;
+}
+.navbar-brand img
+{
+    max-height: 100%;
+}
+.collapse .nav  li a{
+  color: rgba(34, 243, 69, 0.904);
+  font-size:1.2em;
+}
+
+.footer{
+  background-color:rgb(40,40,40);
+  color: white;
+  bottom: 0px;
+  position: relative;
+  width: 100%;
+  margin-bottom: 0px;
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
