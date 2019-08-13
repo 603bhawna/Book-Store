@@ -3,3 +3,4 @@
 #Backened:NodeJS,Express,Mongoose
 #Frontend:Handlebars Bootstrap,
 #Passport js is used for authentication
+#StripeApi is used for payment
